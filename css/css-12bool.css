@@ -9,6 +9,9 @@
     flex-wrap: wrap;
 }
 
+[class*="col-"]{
+    flex:0 0 auto;
+}
 
 /* Col- */
 .col-1 {
